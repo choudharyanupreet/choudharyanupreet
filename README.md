@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @choudharyanupreet
+- 👀 I’m interested in financial mathematics and quantitative investments
+- 🌱 I’m currently learning python and javascript
+- 💞️ I’m looking to collaborate on python libraries and quant models
